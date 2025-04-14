@@ -24,6 +24,8 @@ If you would like to propose an independent thesis subject not included in the a
 
 [Student Thesis Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSdN87vvGuSzuklucgvzegYCwu1OOaJnzizSg69c34INJHCBug/viewform?usp=sharing)
 
+The Unit supports thesis projects in a variety of areas, including signal processing, image analysis, biomedical technology, affective computing, behavioral modeling, mobile health, educational technologies, serious games, healthy aging, and music & culture.
+
 ## Guidelines for Supervisors
 
 See the [proposal-template.md](templates/proposal-template.md) file for instructions on how to format and submit a new topic.
