@@ -32,7 +32,7 @@
 ### Application
 
 To apply for this topic, please use the main form and select **Proposal #1**.  
-[Form Link Placeholder]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
 ###  References
 
@@ -77,7 +77,10 @@ To apply for this topic, please use the main form and select **Proposal #2**.
 [2] Kotanidis, C. P., & Antoniades, C. (2020). Selfies in cardiovascular medicine: welcome to a new era of medical diagnostics. European Heart Journal, 41(46), 4412-4414.
 [3] Wen, Y., Liu, B., Ding, M., Xie, R., & Song, L. (2022). Identitydp: Differential private identification protection for face images. Neurocomputing, 501, 197-211.
 
---
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
+
+---
+
 ##  Proposal #3: Ανάπτυξη ψηφιακών βιοδεικτών για  ρευματικές και μυοσκελετικές παθήσεις με δεδομένα έξυπνου τηλεφώνου
 
 **Supervisor**: Eleni Vasileiou
@@ -102,7 +105,7 @@ To apply for this topic, please use the main form and select **Proposal #2**.
 ###  Application
 
 To apply for this topic, please use the main form and select the appropriate proposal number.  
-[Form Link Placeholder]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
 ###  References
 
@@ -110,7 +113,7 @@ To apply for this topic, please use the main form and select the appropriate pro
 [2] Hamy, V., Garcia-Gancedo, L., Pollard, A., Myatt, A., Liu, J., Howland, A., ... & Crouthamel, M. (2020). Developing smartphone-based objective assessments of physical function in rheumatoid arthritis patients: the PARADE study. Digital biomarkers, 4(1), 26-44.
 [3] Creagh, A. P., Hamy, V., Yuan, H., Mertes, G., Tomlinson, R., Chen, W. H., ... & Clifton, D. A. (2024). Digital health technologies and machine learning augment patient reported outcomes to remotely characterise rheumatoid arthritis. npj Digital Medicine, 7(1), 33.
 
---
+---
 
 ##  Proposal #4: DΜελέτη και ανάπτυξη ψηφιακών βιοδεικτών για καρδιακά συμπτώματα της νόσου του Πάρκινσον
 
@@ -136,7 +139,7 @@ To apply for this topic, please use the main form and select the appropriate pro
 ###  Application
 
 To apply for this topic, please use the main form and select the appropriate proposal number.  
-[Form Link Placeholder]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
 ###  References
 
@@ -144,7 +147,7 @@ To apply for this topic, please use the main form and select the appropriate pro
 [2] Arnao, V., Cinturino, A., Mastrilli, S. et al. Impaired circadian heart rate variability in Parkinson’s disease: a time-domain analysis in ambulatory setting. BMC Neurol 20, 152 (2020). https://doi.org/10.1186/s12883-020-01722-3 
 [3] Iniguez, M., Jimenez-Marin, A., Erramuzpe, A. et al. Heart-brain synchronization breakdown in Parkinson’s disease. npj Parkinsons Dis. 8, 64 (2022). https://doi.org/10.1038/s41531-022-00323-w
 
---
+---
 
 ##  Proposal #5: Learning Joint Multimodal Representations within Diverse Affective Game Environments for Development of a Sensor-less Physiological Monitoring Tool
 
@@ -176,7 +179,7 @@ This thesis aims to develop deep learning and signal processing algorithms for t
 ###  Application
 
 To apply for this topic, please use the main form and select the appropriate proposal number.  
-[Form Link Placeholder]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
 ###  References
 
@@ -185,7 +188,7 @@ To apply for this topic, please use the main form and select the appropriate pro
 [3]: Radford, Alec, et al. "Learning transferable visual models from natural language supervision." International conference on machine learning. PMLR, 2021.
 [4]: Geng, Xinyang, et al. "Multimodal masked autoencoders learn transferable representations." arXiv preprint arXiv:2205.14204 (2022).
 
---
+---
 
 ##  Proposal #6: Affective Game Design with Emotionally Adaptive Avatars
 
@@ -215,7 +218,7 @@ The project will be divided between two students: one focusing on game design (U
 ###  Application
 
 To apply for this topic, please use the main form and select the appropriate proposal number.  
-[Form Link Placeholder]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
 ###  References
 
@@ -249,7 +252,7 @@ Psoriatic arthritis (PsA) is a chronic inflammatory disease affecting the muscul
 ###  Application
 
 To apply for this topic, please use the main form and select the appropriate proposal number.  
-[[Form](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=sharing)]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
 ###  References
 
@@ -260,6 +263,6 @@ To apply for this topic, please use the main form and select the appropriate pro
 [5] L. G. and B.-G. F. J. and B.-C. Á. and B. J. and S.-P. A. and H.-R. A. M. Rodríguez Sánchez-Laulhé Pablo and Luque-Romero, “An Exercise and Educational and Self-management Program Delivered With a Smartphone App (CareHand) in Adults With Rheumatoid Arthritis of the Hands: Randomized Controlled Trial,” JMIR Mhealth Uhealth, vol. 10, no. 4, p. e35462, Apr. 2022, doi: 10.2196/35462.
 [6] K.-E. Kim et al., “Hand Grip Pattern Recognition for Mobile User Interfaces,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2006. [Online]. Available: www.essd.com
 
---
+---
 
 
