@@ -19,7 +19,7 @@ To apply for a topic, please use the following form and select the correct propo
 
 If you would like to propose an independent thesis subject not included in the available Spring 2025 options, please fill out the following form:
 
-[Student Thesis Proposal Form]([https://forms.gle/YOUR_FORM_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLSdN87vvGuSzuklucgvzegYCwu1OOaJnzizSg69c34INJHCBug/viewform?usp=sharing))
+[Student Thesis Proposal Form](https://forms.gle/YOUR_FORM_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLSdN87vvGuSzuklucgvzegYCwu1OOaJnzizSg69c34INJHCBug/viewform?usp=sharing)
 
 ## Guidelines for Supervisors
 
