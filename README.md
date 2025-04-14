@@ -9,9 +9,9 @@ This repository contains available diploma thesis proposals offered by the **Sig
 ## Application Form
 
 To apply for a topic, please use the following form and select the correct proposal number:  
-[Insert Form Link Here]
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSe08hw9Z0LANej63cjehx1ELBqKeMNK7EtdYA9n1JgNS0-UAw/viewform?usp=header)
 
-## Topics by Semester
+## Proposals by Semester
 
 - [Spring 2025](proposals/2025_Spring.md)
 
